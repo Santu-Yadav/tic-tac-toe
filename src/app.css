@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  background-color: rgb(243, 193, 193);
+  width: 20%;
+  height: 200px;
+  margin-left: 550px;
+  margin-top: 70px;
+  padding-left: 25px;
+}
+
+.game-container {
+  margin: 10px;
+  margin-left: 40px;
+}
+
+.button {
+  width: 25%;
+  height: 45px;
+}
